@@ -1,0 +1,56 @@
+[
+    {
+        
+        "service_id": "04",
+        "title": "Fever,Cough and Body Pain",
+        "img": "https://img.freepik.com/free-photo/doctor-is-looking-thermometer-measuring-body-temperature-his-patient_1150-6142.jpg?t=st=1683842687~exp=1683843287~hmac=998b973ae245b114b6a845fa9b2000a7b157549b198c1393fe4998fe349dff9d",
+        "price": "500",
+        "description": "The treatment for fever, cough, and body pain will depend on the underlying cause of these symptoms."
+        
+    },
+    {
+       
+        "service_id": "05",
+        "title": "Fracture Treatment",
+        "img": "https://img.freepik.com/free-photo/young-fitness-girl-wearing-headband-touching-her-bandaged-hand-looking-unwell-feeling-pain_141793-108859.jpg?w=900&t=st=1683842752~exp=1683843352~hmac=b78274f55acbfbc4798a8e577e02ca35b1138b95dd7f47a091f1505a5a898bd9",
+        "price": "3000",
+        "description": "The treatment for a fracture (a broken bone) will depend on the type, location, and severity of the fracture. In general, the goals of treatment are to reduce pain, promote healing, and prevent complications. "
+      
+    },
+    {
+   
+        "service_id": "01",
+        "title": "Body Parts Burn Treatment",
+        "img": "https://img.freepik.com/free-photo/aching-young-sporty-woman-wearing-headband-wristbands-touching-looking-injured-wrist-wrapped-bandage-isolated_141793-68645.jpg?w=996&t=st=1683843049~exp=1683843649~hmac=c1efb242ea08dbfd0880b845dd1789a11ff5be9cf0ba60b86b169c2b793e1b40",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!"
+      
+    },
+    {
+     
+        "service_id": "02",
+        "title": "Dybetics Treatment",
+        "img": "https://img.freepik.com/free-photo/high-angle-healthcare-professional-injecting-hand_23-2149404722.jpg?w=1060&t=st=1683843269~exp=1683843869~hmac=2c85ab0e69c19913a1e9a51f317d1283d38a3d67bc9aa0279bf0faa2bc3d617b",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!"
+     
+    },
+    {
+    
+        "service_id": "03",
+        "title": "Mental Treatment",
+        "img": "https://img.freepik.com/free-photo/depressed-woman-having-psychotherapy-session-doctor-s-office_637285-9909.jpg?w=1060&t=st=1683843377~exp=1683843977~hmac=41ef5d70285abda8953c3386883ae6d4e2c14617c34d7fb293f07f19f082e275",
+        "price": "800",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!"
+       
+    },
+    {
+    
+        "service_id": "06",
+        "title": "Operation Treatment",
+        "img": "https://img.freepik.com/free-photo/ordinary-busy-day-surgeon_329181-19717.jpg?w=1060&t=st=1683843463~exp=1683844063~hmac=517343b4fbd8ec5c93909a070b5a9941eb437f3100902da53873220e0a5bf9a5",
+        "price": "1500",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!"
+      
+    }
+]
