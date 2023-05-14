@@ -9,7 +9,7 @@ const Services = () => {
     
    
     useEffect(()=>{
-        fetch('https://doctor-server-beryl.vercel.app/Services')
+        fetch('https://doctor-server-tasniasamia.vercel.app/Services')
         .then(res=>res.json())
         .then(data=>setData(data))
     },[])
